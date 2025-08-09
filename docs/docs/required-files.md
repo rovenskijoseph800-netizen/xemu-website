@@ -2,7 +2,7 @@ xemu is a low-level, full-system emulator which emulates the actual hardware of
 the Xbox; this means that in order to actually run xemu, you must have a copy
 of the stuff that a real Xbox needs when it turns on:
 
-1. [MCPX Boot ROM Image](#mcpx-boot-rom-image)
+1. [MCPX Boot ROM Image](#mcpx-boot-rom-)
 2. [Flash ROM Image (BIOS)](#flash-rom-image-bios)
 3. [Hard Disk Image](#hard-disk-image)
 
